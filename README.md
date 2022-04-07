@@ -9,13 +9,13 @@
   
 🌱 I’m currently learning **JS**
 
-👨‍💻 All of my projects are available at [https://github.com/atikfaisalemon](https://github.com/atikfaisalemon)
+- 👨‍💻 All of my projects are available at [https://github.com/atikfaisalemon](https://github.com/atikfaisalemon)
 
-💬 Ask me about **HTML,CSS,JS,C,Boostrap**
+- 💬 Ask me about **HTML,CSS,JS,C,Boostrap**
 
-📫 How to reach me **atikfaisalemon@gmail.com**
+- 📫 How to reach me **atikfaisalemon@gmail.com**
 
-⚡ Fun fact **Hate Code**
+- ⚡ Fun fact **Hate Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
