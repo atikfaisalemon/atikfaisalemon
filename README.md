@@ -9,7 +9,7 @@
   
 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/atikfaisalemon](https://github.com/atikfaisalemon)]
+- 👨‍💻 All of my projects are available at: [https://github.com/atikfaisalemon](https://github.com/atikfaisalemon)
 
 - 💬 Ask me about **HTML,CSS,JS,C,Boostrap**
 
