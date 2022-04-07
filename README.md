@@ -1,29 +1,22 @@
-<h1 align="center">Hi 👋, I'm Atik Faisal Emon</h1>
-<h3 align="center">A Web developer from Bangladesh</h3>
+### Hi there 👋, I am Emon
+#### Web Devoper
+![Web Devoper](https://scontent.fdac110-1.fna.fbcdn.net/v/t1.6435-9/147021467_1328975514107873_5255366000212440949_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHBpt8J9iBfybfRRyr2Jio4vckiNaRAuuK9ySI1pEC64kh3O4yEEmRDbfW4gfYLm1xx29ZrGtHwOiks6DTgRili&_nc_ohc=IyJQGMlCeK4AX9IfIrs&_nc_ht=scontent.fdac110-1.fna&oh=00_AT8L_HzIqPGLUkdqrG7yjPkFfLBjW4DBnA6etlMi2n6kKw&oe=6273A345)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atikfaisalemon&label=Profile%20views&color=0e75b6&style=flat" alt="atikfaisalemon" /> </p>
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-- 🔭 I’m currently working on **Web Technology**
+Skills:  JS / HTML / CSS
 
-- 🌱 I’m currently learning **JS**
+- 🔭 I’m currently working on Web Technology 
+- 🌱 I’m currently learning JS 
+- 💬 Ask me about Web Devolopment 
+- 😄 Pronouns: Eemon 
+- ⚡ Fun fact: I Hate Coding 
 
-- 👨‍💻 All of my projects are available at [https://github.com/atikfaisalemon](https://github.com/atikfaisalemon)
 
-- 💬 Ask me about **HTML,CSS,JS,C,Boostrap**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atikfaisalemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/atikfaisalemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCc6SuO_yfeJkPBr0cRzmQiA)  
 
-- 📫 How to reach me **atikfaisalemon@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikfaisalemon)](https://github.com/anuraghazra/github-readme-stats)
 
-- ⚡ Fun fact **Hate Code**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=atikfaisalemon&show_icons=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atikfaisalemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atikfaisalemon" height="30" width="40" /></a>
-<a href="https://fb.com/atikfaisalemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atikfaisalemon" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atikfaisalemon&show_icons=true&locale=en&layout=compact" alt="atikfaisalemon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atikfaisalemon&show_icons=true&locale=en" alt="atikfaisalemon" /></p>
+![Profile views](https://gpvc.arturio.dev/atikfaisalemon)  
