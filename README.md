@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **atikfaisalemon@gmail.com**
 
-- ⚡ Fun fact **Hate Code**
+- ⚡ Fun fact *** I Hate Code***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
