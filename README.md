@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS,C,Boostrap**
 
-<h3>- 📫 How to reach me **atikfaisalemon@gmail.com**</h3>
+- 📫 How to reach me **atikfaisalemon@gmail.com**
 
 - ⚡ Fun fact ***I Hate Code***
 
