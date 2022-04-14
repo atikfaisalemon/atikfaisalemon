@@ -13,7 +13,8 @@
 
 - 💬 Ask me about **HTML,CSS,JS,C,Boostrap**
 
-<h3>- 📫 How to reach me</>h3 **atikfaisalemon@gmail.com**
+<!-- - 📫 How to reach me **atikfaisalemon@gmail.com** -->
+<h3>📫 How to reach me <a href="atikfaisalemon@gmail.com">Email</a> </h3
 
 - ⚡ Fun fact ***I Hate Code***
 
